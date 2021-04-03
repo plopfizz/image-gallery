@@ -1,3 +1,22 @@
+
+
+
+                                                          IMAGE GALLERY 
+
+Created a React App using firebase functionalities to store and retrive the images  and framer motion npm package for animations
+
+
+
+
+
+![image-gallery](https://user-images.githubusercontent.com/50981888/113490005-27bc3700-94e5-11eb-9a5b-96375da85d71.gif)
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
